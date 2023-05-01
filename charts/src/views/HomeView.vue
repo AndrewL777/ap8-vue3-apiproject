@@ -51,7 +51,7 @@ export default {
               'rgba(0, 0, 0, 1)',
          
             ],
-            borderWidth: 5
+            borderWidth: 3
           }]
         },
         options: {

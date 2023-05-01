@@ -42,16 +42,16 @@ export default {
             backgroundColor: [
               'rgba(0, 0, 0, 0.7)',
               'rgba(255, 255, 255, 0.7)',
-              'rgba(255, 0, 0, 0.7)',
+              'rgba(255, 255, 0, 0.7)',
     
             ],
             borderColor: [
               'rgba(0, 0, 0, 1)',
-              'rgba(255, 255, 255, 1)',
-              'rgba(255, 0, 0, 1)',
+              'rgba(0, 0, 0, 1)',
+              'rgba(0, 0, 0, 1)',
          
             ],
-            borderWidth: 1
+            borderWidth: 5
           }]
         },
         options: {
